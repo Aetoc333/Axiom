@@ -5,7 +5,6 @@ import Swiper from "react-id-swiper";
 import slugify from "react-slugify";
 import { HashLink as Link } from "react-router-hash-link";
 import { BrowserRouter as Router } from "react-router-dom";
-import ReactDOM from "react-dom";
 import Overview from "./Overview";
 import Checklist from "./Checklist";
 
